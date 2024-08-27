@@ -1,2 +1,4 @@
 # chamba
 -
+print("Hola mundo")
+
